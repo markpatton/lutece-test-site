@@ -44,4 +44,4 @@ Edit  /webapps/lutece/WEB-INF/conf/db.properties
 User: admin
 Password: adminadmin
 
-http://localhost:8080/example/jsp/admin/AdminLogin.jsp
+http://localhost:8080/lutece/jsp/admin/AdminLogin.jsp
