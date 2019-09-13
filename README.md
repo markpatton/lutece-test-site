@@ -39,3 +39,9 @@ Unnpack war to /webapps/lutece in tomcat.
 
 Edit  /webapps/lutece/WEB-INF/conf/db.properties
 
+# Login to site
+
+User: admin
+Password: adminadmin
+
+http://localhost:8080/example/jsp/admin/AdminLogin.jsp
